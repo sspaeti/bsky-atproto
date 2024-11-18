@@ -1,0 +1,4 @@
+atproto
+duckdb>=1.1.3
+pandas
+pyarrow
